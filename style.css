@@ -1,0 +1,64 @@
+/* * {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color:rgb(223, 26, 26);
+    font-size: 40px;
+    background-color: yellow;
+}
+
+h2 {
+    font-size: 35px;
+    color: green;
+}
+
+section article h2 {
+
+    background-color: #cccccc;
+    width: 500px;
+    height: 500px;
+    color: blue;
+}
+
+section {
+    padding: 50px 30px 20px 60px;
+    margin-left: 40px;
+}
+section article {
+
+    background-color: #cccccc;
+    width: 500px;
+    height: 500px;
+}
+
+section article p {
+    line-height: 4;
+}
+
+html, body{
+    margin: 20px;
+} */
+
+/* criando uma classe: */
+
+.nomeDaClasse{
+    
+    font-size: 40px;
+    font-family: "Arial";
+    color: red !important;
+}
+
+/* criando um id:  */
+#nomeDoID {
+    font-family: "Verdana";
+    font-size: 60px;
+    color: green;
+}
+
+h2 {
+    
+    font-size: 40px;
+    color: blue;
+}
